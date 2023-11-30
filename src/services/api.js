@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8080/api/n1";
+const BASE_URL = "https://hackuniv-rescueconnect-backend.onrender.com/api/n1";
 
 // AGENCY END POINTS
 export const agencyEndPoints = {
